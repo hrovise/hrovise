@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maks
+### Hi there 👋 I'm Maks - [myweb](https://web-dev-wrs.netlify.app/)
 Software Engineer looking for Fullstack (Angular + NestJS) role.
 
 - 🔭 Currently working on an old legacy NodeJs project and Angular v.13(migration to v.20) and Blog Platform with Cloud Integration.

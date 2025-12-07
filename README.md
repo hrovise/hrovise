@@ -9,4 +9,4 @@ Software Engineer looking for Fullstack (Angular + NestJS) role.
 • Technologies: Angular, NestJS, Node.js, Express, MongoDB, SQL, Docker, ASP.NET
 • Tools: Git
 ## 🎯Goal
-• integrate AI to my website [mynoves](https://writer-scif-isle.netlify.app/) for tranlsation novels on a fly
+• integrating AI to my website [mynovels](https://writer-scif-isle.netlify.app/) for tranlsation novels on the fly

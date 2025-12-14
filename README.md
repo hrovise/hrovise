@@ -2,7 +2,7 @@
 Software Engineer looking for Fullstack (Angular + NestJS) role.
 
 - 🔭 Currently working on an old legacy NodeJs project and Angular v.13(migration to v.20) and Blog Platform with Cloud Integration.
-- 🌱 Deeply interested in C++ internals & Algorithms and Python.
+- 🌱 Deeply interested in [C++ internals & Algorithms](https://github.com/hrovise/LeetCode/tree/main) and Python.
 
 ## 🛠 Skills
 • Languages: JavaScript (Node.js, TypeScript, Angular), C++, C#, Python

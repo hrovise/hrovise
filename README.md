@@ -11,5 +11,3 @@ Software Engineer looking for Fullstack (Angular + NestJS) role.
 ## 🎯Goal
 • integrating AI for tranlsation novels on the fly to my website 
 ## [🌐 mynovels](https://writer-scif-isle.netlify.app/)
-## [🖥️ Frontend (Angular)](https://github.com/hrovise/writer_front_Angular)
-## [⚙️ Backend (NestJS)](https://github.com/hrovise/writer_backend_nestjs)
